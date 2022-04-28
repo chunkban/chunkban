@@ -1,5 +1,5 @@
 Self Taught in many languages
- [ PHP, JS, HTML, CSS, C# and alot more ]
+ [ English, PHP, JS, HTML, CSS, C# and alot more ]
  
 
 
