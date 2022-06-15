@@ -1,5 +1,5 @@
-Self Taught in many languages
- [ English, PHP, JS, HTML, CSS, C# and alot more ]
+Full Stack Developer @ Paradox Services Limited
+Currently Working on: Paradox Delta (revision 2)
  
 
 
